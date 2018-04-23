@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/D2OI6GvLIn2gM/giphy.gif" width="400px"  hspace="10"> 
-
 # The `while` and `until` Constructs
+ 
+<img src="https://media.giphy.com/media/D2OI6GvLIn2gM/giphy.gif" width="600px"  hspace="10"> 
 
 ## Objectives
 
@@ -16,7 +16,7 @@ First, we'll write a while loop that will continue to `puts` the phrase "Wingard
 
 Then, we'll solve this again by using an `until` loop. It will `puts` the phrase "Wingardium Leviosa" until the levitation force is equal to `10`, incrementing the levitation force by `1` each time we `puts` the phrase.
 
-<img src="https://media.giphy.com/media/yPuurXvMD2wN2/giphy.gif" width="400px"  hspace="10"> 
+<img src="https://media.giphy.com/media/yPuurXvMD2wN2/giphy.gif" width="400px" align="right" hspace="10"> 
 
 ## Instructions
 
